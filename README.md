@@ -75,17 +75,3 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" /></td>
   </tr>
 </table>
-
-<p align="center">
-	<a href="https://github.com/andrejGlavas">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=petdani5lovi" />
-	</a>
-</p>
-<p align="center">
-	<a href="https://github.com/andrejGlavas">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejGlavas&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
-	</a>
-	<a href="https://github.com/andrejGlavas">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrejGlavas&show_icons=true&theme=dracula" />
-	</a>
-</p>
